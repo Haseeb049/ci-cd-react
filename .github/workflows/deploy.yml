@@ -31,7 +31,7 @@ jobs:
    runs-on: ubuntu-latest
    steps:
    - name: Checkout Repository
-     uses: action/checkout/@master
+     uses: actions/checkout/@master
    - name: Download the artifact
      uses: actions/download-artifact@main
      with : 
