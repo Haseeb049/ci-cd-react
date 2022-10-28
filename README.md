@@ -12,5 +12,5 @@ It is a sample project to practice github actions for creating pull request, bui
 
 # Steps to deploy on live link cicd-app-4ea40.web.app
  1. Create pull request into master branch
- 2. Merge the branch
+ 2. Merge the pull request
  3. The changes will published
