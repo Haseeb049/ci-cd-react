@@ -10,7 +10,7 @@ It is a sample project to practice github actions for creating pull request, bui
 1. npm install
 2. npm start
 
-# Steps to deploy on live link cicd-app-4ea40.web.app
+# Steps to deploy on live [link](https://cicd-app-4ea40.web.app/)
  1. Create pull request into master branch
  2. Merge the pull request
  3. The changes will published
